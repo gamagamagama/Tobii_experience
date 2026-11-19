@@ -1,7 +1,8 @@
 # Tobii_experience
 Debug for tobii experience app that is unable to install from msstore bcs of error code 0x803fb005:
 ```bash
-# The product couldn't be installed due to some missing dependencies. Make sure these drivers are installed:
+# The product couldn't be installed due to some missing dependencies.
+# Make sure these drivers are installed:
 # 'Tobii_AB-AwareUB40.inf','Tobii_AB-IS5Devkit940.inf','Tobii_AB-IS5Devkit850.inf'.
 
 ```
