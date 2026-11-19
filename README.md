@@ -11,3 +11,5 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
 ```
 2. Run Tobii.ps1 script that register Tobii_experience app under current user
 3. Logout & Log in 
+
+PS: Anyway it solves only one of many problems that it can actually be, but mnimally can help you identify it and provide your own sollution. 
